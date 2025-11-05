@@ -214,7 +214,3 @@ Date column from original data is split into separate Year, Month, Day columns
 Requirements
 ------------
 MATLAB R2018b or later
-
-station_info.csv file in root directory
-
-Database_CN folder with yearly subfolders containing station CSV files
