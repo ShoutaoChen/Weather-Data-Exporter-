@@ -1,7 +1,7 @@
 # Weather-Data-Exporter-
 Overview
 --------
-The Weather Data Export Tool is a MATLAB-based GUI application designed to export historical weather data from Chinese meteorological stations. The tool allows users to select multiple stations, specify data types, set year ranges, and export data in various formats.
+The Weather Data Export Tool is a MATLAB-based GUI application designed to export historical weather data from over 1000 Chinese weather stations. The tool allows users to select multiple stations, specify data types, set year ranges, and export data in various formats.
 Available year range: 1942-2024(Sep)
 
 Features
